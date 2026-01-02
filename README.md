@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VY-41(Vishnu Yelimeli)
-- 👀 I’m interested in ... Software Engineering, Data Science, Data Analytics, Machine Learning, Deep Learning, 
-- 🌱 I’m currently learning ... Data Structures, Discrete Structures, Data Modeling, Data Analytics, Data Management
+- 👀 I’m interested in ... Software Engineering, Data Science, Data Analytics, Machine Learning, Deep Learning, Cybersecurity,
+- 🌱 I’m currently learning ... Data Structures, Discrete Structures, Data Modeling, Data Analytics, Data Management, C programming
 - 💞️ I’m looking to collaborate on ... any data science projects and any software engineering projects
 - 📫 How to reach me ... yelimeliv@gmail.com
 - 😄 Pronouns: ...
