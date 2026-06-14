@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishnu Yelimeli
-- 👀 I’m interested in ... Cloud Development & Engineering, Cybersecurity, AWS, Networking
-- 🌱 I’m currently learning ... Python, Linux, Scripting, Networking, Cloud Computing, AWS, Cybersecurity
-- 💞️ I’m looking to collaborate on ... AWS Projects Cloud Development Projects, Networking Projects 
+- 👀 I’m interested in ... Cloud Development & Engineering, Cloud Network Engineering, AWS, Azure, Networking, DevOps
+- 🌱 I’m currently learning ... AWS, Cloud Computing, Networking, Python, Linux, Scripting
+- 💞️ I’m looking to collaborate on ... AWS Projects, Cloud Development Projects, Networking Projects 
 - 📫 How to reach me ... yelimeliv@gmail.com
